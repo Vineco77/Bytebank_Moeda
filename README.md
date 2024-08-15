@@ -1,7 +1,15 @@
 ### Bytebank, mas somente o campo de cotação de moedas 🌍
 #### Fique a vontade para navegar, em caso de dúvidas estou disponível 24/7 para você 🫵
 
+<div>
+    <img src='Bytebank_Moeda.gif'/>
+</div>
 
+#### Link para o Site 🎯
+
+<div>
+    <a href="[https://alfood-ten.vercel.app](https://bytebank-moeda.vercel.app)" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>
 
 #### ⬇️Pode me chamar no⬇️
 
@@ -12,7 +20,6 @@
     <a href="vinii.viniciusribeiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <h2>vinii.viniciusribeiro@gmail.com</h2>
 </div>
-
 
 #### Tecnologias utilizadas neste projeto 🤖
 
